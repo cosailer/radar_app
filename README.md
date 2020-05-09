@@ -1,2 +1,2 @@
 # radar_app
-application for my thesis
+application code for my master thesis
